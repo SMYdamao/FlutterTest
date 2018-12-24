@@ -1,0 +1,14 @@
+//
+//  Flutter.xcconfig
+//  qding
+//
+//  Created by 生茂元 on 2018/12/17.
+//  Copyright © 2018 www.qdingnet.com. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+#include "../../flutter_module/.ios/Flutter/Generated.xcconfig"
+ENABLE_BITCODE=NO
